@@ -2,3 +2,4 @@ docopts
 *.swp
 env
 dist/
+.vscode
