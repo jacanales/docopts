@@ -34,7 +34,7 @@ README.md: examples/legacy_bash/rock_hello_world.sh examples/legacy_bash/rock_he
 	mv README.tmp README.md
 
 clean:
-	rm -f docopts-* docopts README.tmp dist/*
+	rm -rf docopts-* docopts README.tmp dist/*
 
 test_release_notes:
 	echo "\n## $(RELEASE_NOTES)"
