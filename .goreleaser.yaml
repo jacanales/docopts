@@ -34,7 +34,7 @@ snapshot:
 release:
   draft: true
   github:
-    owner: docopt
+    owner: jacanales
     name: docopts
 # https://goreleaser.com/customization/changelog/
 changelog:
